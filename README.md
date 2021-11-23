@@ -39,22 +39,22 @@ Le joueur avec le plus de points remporte la partie.
 
 
 
-Exemple :
-décrypter
-wegner
-césar
-types d’attaques
-phishing
-brute force...
-types de hackers
-white
-black
-blue...
-pra / pca
-RAID 
-raid 5
-raid 0
-raid 1...
+## Exemple :
++décrypter
+  +wegner
+  +césar
++types d’attaques
+  +phishing
+  +brute force...
++types de hackers
+  +white
+  +black
+  +blue...
++pra / pca
++RAID 
+  +raid 5
+  +raid 0
+  +raid 1...
 
 
 
@@ -71,22 +71,7 @@ Questions :
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-Virtuel :
+## Virtuel :
 
 Se joue tout seul.
 
