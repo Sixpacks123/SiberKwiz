@@ -56,21 +56,6 @@ Le joueur avec le plus de points remporte la partie.
   + raid 0
   + raid 1...
 
-
-
-
-
-Questions :
-
-
-
-
-
-
-
-
-
-
 ## Virtuel :
 
 Se joue tout seul.
